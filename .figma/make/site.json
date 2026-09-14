@@ -1,0 +1,11 @@
+{
+  "title": "YAKMOZ",
+  "description": "An online bakery store offering cookies and brownies with easy cart management, checkout options, and flexible payment methods for customer convenience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
